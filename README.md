@@ -1,4 +1,4 @@
-🚗 Car Pricing Classification Project 📊
+# 🚗 Car Pricing Classification Project 📊
 
 Goal: Develop a machine learning model to predict car prices based on features 📈
 
